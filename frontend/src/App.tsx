@@ -1,3 +1,4 @@
+// Deployment trigger: Root Directory set to frontend
 import Chatbot from "./components/Chatbot";
 import "./index.css";
 
